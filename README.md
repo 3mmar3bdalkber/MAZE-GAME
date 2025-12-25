@@ -9,51 +9,54 @@
 
 - Dynamic Maze Generation using DFS algorithm
 
--Real-time Scoring System with time penalty
+- Real-time Scoring System with time penalty
 
--Player Movement with arrow key controls
+- Player Movement with arrow key controls
 
--Auto-solve feature with score penalty
+- Auto-solve feature with score penalty
 
 ---
 
 ## Game Mechanics
 
-Score System: Starts at 1000, decreases by 10/second
+- Score System: Starts at 1000, decreases by 10/second
 
-Time Bonus: Faster completion = higher bonus
+- Time Bonus: Faster completion = higher bonus
 
-Level Progression: Maze size increases with level
+- Level Progression: Maze size increases with level
 
-Visual Path Display: Shows solution path
+- Visual Path Display: Shows solution path
 
-Win Condition: Reach the green flag goal
+- Win Condition: Reach the green flag goal
 
 ---
 
 ## UI/UX Features
-Modern Dark Theme with purple accent
+- Modern Dark Theme with purple accent
 
-Rounded Window Corners (custom JFrame)
+- Rounded Window Corners (custom JFrame)
 
-Draggable Window for easy positioning
+- Draggable Window for easy positioning
 
-Real-time Statistics Panel
+- Real-time Statistics Panel
 
-Level Selection Dialog with preview
+- Level Selection Dialog with preview
 
-Interactive Tutorial Panel
+- Interactive Tutorial Panel
 
- Technical Highlights
-Object-Oriented Design with MVC pattern
+---
 
-Thread-safe Timers for score decrement
+## Technical Highlights
 
-Memory-efficient Maze Generation
+- Object-Oriented Design with MVC pattern
 
-Collision Detection with wall boundaries
+- Thread-safe Timers for score decrement
 
-Custom Graphics Rendering
+- Memory-efficient Maze Generation
+
+- Collision Detection with wall boundaries
+
+- Custom Graphics Rendering
 
 ---
 
@@ -62,13 +65,13 @@ Objective
 Navigate your red player character through randomly generated mazes to reach the green goal flag before time runs out!
 
 Controls
-↑ Move Up
+- ↑ Move Up
 
-↓ Move Down
+- ↓ Move Down
 
-← Move Left
+- ← Move Left
 
-→ Move Right
+- → Move Right
 
 Scoring
 Starting Score: 1000 points
@@ -85,9 +88,9 @@ Time Bonus: Up to 10,000 points
 
 Level System
 Level	Difficulty	Maze Size	Description
-1	Easy	12×12	Beginner friendly
-2	Medium	16×16	Increased complexity
-3	Hard	20×30	Expert challenge
+- 1	Easy	12×12	Beginner friendly
+- 2	Medium	16×16	Increased complexity
+- 3	Hard	20×30	Expert challenge
 
 ---
 
@@ -129,5 +132,7 @@ maze-adventure/
 **Mohamed Ali Mo3oud**
 
 **John Hany**
+
+---
 
 <p align="center"> <strong>Enjoy navigating through the mazes! </strong><br/> </p><p align="center"> <a href="#top">Back to top ↑</a> </p>
