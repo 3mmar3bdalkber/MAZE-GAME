@@ -126,17 +126,17 @@ maze-adventure/
 
 ##  Contributors
 
-**Team Name** : **MAZE**
-
-**Ammar Abdalkber Abdelqader** 
+**Team Name** : **Mesh Sam3ek men EelDP**
 
 **Ahmed Rabee Mohamed** 
+
+**Ammar Abdalkber Abdelqader** 
 
 **Ahmed Mohamed Khalaf**
 
 **Mohamed Khalaf Apas**
 
-**Mohamed Ali Mo3oud**
+**Mohamed Ali Foda**
 
 **John Hany**
 
