@@ -1,7 +1,5 @@
-<h1 align="center">Maze GAme</h1>
+<h1 align="center">Maze Game</h1>
 <p align="center"> <strong>An interactive maze-solving game built with Java Swing featuring dynamic level progression, scoring system, and real-time gameplay.</strong> </p><p align="center"> <!-- Shields --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Swing"> <img src="https://img.shields.io/badge/OOP-4A90E2?style=for-the-badge&logo=java&logoColor=white" alt="OOP"> <img src="https://img.shields.io/badge/Game%20Development-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" alt="Game Dev"> <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge" alt="License"> </p><p align="center"> <a href="#-features">Features</a> • <a href="#-gameplay">Gameplay</a> • <a href="#-installation">Installation</a> • <a href="#-project-structure">Structure</a> • <a href="#-how-to-play">How to Play</a> • <a href="#-development-team">Team</a> </p>
-Game Preview
-<p align="center"> <img src="https://via.placeholder.com/800x450/1068c7/ffffff?text=Maze+Adventure+Gameplay" alt="Game Preview" width="600"/> </p>
 
 ---
 
